@@ -8,7 +8,6 @@ email = "alideveloper95@gmail.com"
 description = " Create a hashed block if user provide a data. However data is not dynamic yet. "
 readme = "README.md"
 license-file = "LICENSE"
-license = "Apache License, Version 2.0"
 repository = "https://github.com/ali2210/turbo-invention/hashed_block"
 keywords = ["hashed", "static-data"]
 category = ["hash","stdin"]
