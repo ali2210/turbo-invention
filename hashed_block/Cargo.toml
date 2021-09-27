@@ -1,0 +1,16 @@
+[package]
+name = "hashed_block"
+version = "0.1.0"
+edition = "2018"
+publish = true
+author = "Ali hassan"
+email = "alideveloper95@gmail.com"
+description = " Create a hashed block if user provide a data. However data is not dynamic yet. "
+readme = "README.md"
+License = "Apache License 2.0"
+keywords = ["hashed, static-data"]
+category = ["hash","stdin"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
